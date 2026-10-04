@@ -1,0 +1,19 @@
+# Arquivos de configuracao com dados pessoais ou chaves de API
+config.json
+*.env
+.env*
+
+# Arquivos temporarios e frames gerados pelo cortador
+temp_*.png
+temp_*.mp4
+*.tmp
+*.log
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Pastas de ambiente virtual
+venv/
+.venv/
+env/
